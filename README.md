@@ -47,4 +47,4 @@ Este repositório reúne as atividades práticas da disciplina de Banco de Dados
 
 ## 👩‍💻 Autora
 
-Feito com 💜 por Yasmin Andrade 👋
+Feito com 💜 por Yasmin Andrade 👋 Entre em contato pelo [LinkedIn!](https://www.linkedin.com/in/yasmin-rodrigues-de-andrade)
