@@ -38,11 +38,12 @@ Este repositório reúne as atividades práticas da disciplina de Banco de Dados
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/yasminandrade8/Banco-de-Dados.git](https://github.com/yasminandrade8/Banco-de-Dados.git)
-   Abra seu gerenciador MySQL de preferência (ex: MySQL Workbench ou DBeaver).
 
-2. Conecte-se ao seu servidor local.
+2. Abra seu gerenciador MySQL de preferência (ex: MySQL Workbench ou DBeaver).
 
-3. Execute o arquivo .sql desejado para criar as tabelas e povoar a base de dados.
+3. Conecte-se ao seu servidor local.
+
+4. Execute o arquivo .sql desejado para criar as tabelas e povoar a base de dados.
 
 ## 👩‍💻 Autora
 
