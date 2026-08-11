@@ -18,10 +18,10 @@ Este repositório reúne as atividades práticas da disciplina de Banco de Dados
 
 | Módulo / Tema | Descrição dos Conceitos | Link dos Scripts |
 | :--- | :--- | :--- |
-| **01. DDL (Definição)** | Criação de schemas, tabelas, chaves primárias (PK) e estrangeiras (FK) | [Acessar](./Scripts) |
-| **02. DML (Manipulação)** | Inserção, atualização e remoção de dados (`INSERT`, `UPDATE`, `DELETE`) | [Acessar](./Scripts) |
-| **03. Consultas e Joins** | Seleção de dados com `INNER JOIN`, `LEFT JOIN`, agregações e filtros | [Acessar](./Scripts) |
-| **04. Objetos Avançados** | Criação de `Views`, `Triggers` e `Stored Procedures` no MySQL | [Acessar](./Scripts) |
+| **01. DDL (Definição)** | Criação de schemas, tabelas, chaves primárias (PK) e estrangeiras (FK) | [Acessar](./Scripts/DDL) |
+| **02. DML (Manipulação)** | Inserção, atualização e remoção de dados (`INSERT`, `UPDATE`, `DELETE`) | [Acessar](./Scripts/DML) |
+| **03. Consultas e Joins** | Seleção de dados com `INNER JOIN`, `LEFT JOIN`, agregações e filtros | [Acessar](./Scripts/Consultas-e-Joins) |
+| **04. Objetos Avançados** | Criação de `Views`, `Triggers` e `Stored Procedures` no MySQL | [Acessar](./Scripts/Objetivos-Avançados) |
 
 ---
 
